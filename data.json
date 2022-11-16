@@ -1,0 +1,116 @@
+{
+    "Dubai": {
+        "iataCode": "DXB",
+        "icaoCode": "OMDB",
+        "lowestPrice": "329632.0",
+        "id": 5
+    },
+    "Frankfurt": {
+        "iataCode": "FRA",
+        "icaoCode": "EDDF",
+        "lowestPrice": "364429.0",
+        "id": 4
+    },
+    "Accra": {
+        "iataCode": "ACC",
+        "icaoCode": "DGAA",
+        "lowestPrice": "213866.0",
+        "id": 3
+    },
+    "Nairobi": {
+        "iataCode": "NBO",
+        "icaoCode": "HKJK",
+        "lowestPrice": "437724.0",
+        "id": 6
+    },
+    "Beirut": {
+        "iataCode": "BEY",
+        "icaoCode": "OLBA",
+        "lowestPrice": "285200.0",
+        "id": 9
+    },
+    "Johannesburg": {
+        "iataCode": "JNB",
+        "icaoCode": "FAJS",
+        "lowestPrice": "227262.0",
+        "id": 8
+    },
+    "Atlanta": {
+        "iataCode": "ATL",
+        "icaoCode": "KATL",
+        "lowestPrice": "558052.0",
+        "id": 11
+    },
+    "Amsterdam": {
+        "iataCode": "AMS",
+        "icaoCode": "EHAM",
+        "lowestPrice": "348389.0",
+        "id": 2
+    },
+    "Doha": {
+        "iataCode": "DOH",
+        "icaoCode": "OTBD",
+        "lowestPrice": "414584.0",
+        "id": 3
+    },
+    "Kigali": {
+        "iataCode": "KGL",
+        "icaoCode": "HRYR",
+        "lowestPrice": "229021.0",
+        "id": 3
+    },
+    "Abidjan": {
+        "iataCode": "ABJ",
+        "icaoCode": "DIAP",
+        "lowestPrice": "230070.0",
+        "id": 4
+    },
+    "Freetown": {
+        "iataCode": "FNA",
+        "icaoCode": "GFLL",
+        "lowestPrice": "389730.0",
+        "id": 5
+    },
+    "Jeddah": {
+        "iataCode": "JED",
+        "icaoCode": "OEJN",
+        "lowestPrice": "319625.0",
+        "id": 2
+    },
+    "Ouagadougou": {
+        "iataCode": "OUA",
+        "icaoCode": "DFFD",
+        "lowestPrice": "473542.0",
+        "id": 2
+    },
+    "Bali": {
+        "iataCode": "bali_poi",
+        "icaoCode": "",
+        "lowestPrice": "688344.0",
+        "id": 3
+    },
+    "Muscat": {
+        "iataCode": "MCT",
+        "icaoCode": "",
+        "lowestPrice": "441009.0",
+        "id": 3
+    },
+    "Kinshasa": {
+        "iataCode": "FIH",
+        "icaoCode": "FZAA",
+        "lowestPrice": "403233.0",
+        "id": 2
+    },
+    "Charlotte": {
+        "iataCode": "CLT",
+        "icaoCode": "KCLT",
+        "lowestPrice": "712762.0",
+        "id": 3
+    },
+    "Niamey": {
+        "iataCode": "NIM",
+        "icaoCode": "",
+        "lowestPrice": "491943.0",
+        "id": 2
+    }
+}
