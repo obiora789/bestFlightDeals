@@ -12,7 +12,7 @@ Keeps a local database to ensure you always have the best deals ever.
   <li>Create a new Google Sheets Document.</li>
   <li>Create a Sheety Account (https://dashboard.sheety.co/) to interface with Google Sheets API.</li>
 </ul>
-
+<hr>
 <h3>What to do</h3>
 <ol>
   <li>Fork this Git and clone to your local PC.</li>
@@ -52,5 +52,13 @@ Keeps a local database to ensure you always have the best deals ever.
     <li>You'll definitely get an email if there's a cheaper flight prices.</li>
   </ul>
 </ol>
+<hr>
+<h3>Results</h3>
+<img src="https://user-images.githubusercontent.com/30503852/203136992-c9353579-3e7e-4f72-a791-4958be5e07b9.jpg" alt="resultFlightPrices.jpg">
+<img src="https://user-images.githubusercontent.com/30503852/203137226-5e7a3856-4a2b-440d-8fdd-787969487dfd.jpg" alt="resultBestDealsCode.jpg">
+<img src="https://user-images.githubusercontent.com/30503852/203137560-c013efbb-f3b0-4aab-91cf-1366dbedfb24.jpg" alt="resultUsers.jpg">
+<hr>
+<h3>Bugs</h3>
+<p>None as at the time of this documentation. 😉</p>
 
 
