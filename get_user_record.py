@@ -40,6 +40,7 @@ class UserRecords:
             return user_response.json()
 
     def post_cities(self):
+        """Runs a check for duplicate city entries before posting to the Google Costs Sheet"""
         sheety_list = requests.get(url=self.sheety_flight, headers=self.headers)
         self.number_of_cities = int(input("How many destinations would you like to visit?\n"))
         if self.number_of_cities > 0:
