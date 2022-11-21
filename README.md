@@ -49,7 +49,7 @@ Keeps a local database to ensure you always have the best deals ever.
   </ul>
   <li>However, if you run the code and select "Search":</li>
   <ul>
-    <li>You'll definitely get an email if there's a cheaper flight prices.</li>
+    <li>You'll definitely get an email if there's a cheaper flight price.</li>
   </ul>
 </ol>
 <hr>
