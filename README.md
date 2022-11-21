@@ -1,4 +1,4 @@
-<h1>Best Flight Prices</h1>
+<h1>Best Flight Deals</h1>
 Get the best prices for flights to all destinations you provide.<br>
 Obiora's Flight Club helps you get the best flight deals available.<br>
 Send a list of destinations you would like to visit, the app searches the flight API for the best offers.<br>
